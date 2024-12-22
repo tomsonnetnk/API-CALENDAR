@@ -1,3 +1,5 @@
+#Этот код создает простой CRUD API для работы с календарем, реализуя указанные требования.
+
 from flask import Flask, request
 
 app = Flask(__name__)
