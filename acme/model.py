@@ -5,3 +5,4 @@ class Note:
     date: str
     title: str
     text: str
+    event: str
